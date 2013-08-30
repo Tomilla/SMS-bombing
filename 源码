@@ -6,7 +6,7 @@ $c++;
 <!DOCTYPE html>
 <html>
 <head>
-<title SMS-bombing BETA </title>
+<title> SMS-bombing BETA </title>
 <?php
  if($tel_no){
 	echo "<meta http-equiv=refresh content='5; url=index.php?hm={$tel_no}&amp;c={$c}'>";
